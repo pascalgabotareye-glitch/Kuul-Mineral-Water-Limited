@@ -52,3 +52,4 @@ bottle water company
       <p class="price">1 piece: 4 Cedis</p>
       <p class="price">Pack: 40 Cedis</p>
     </div>
+<img src="https://cdn.pixabay.com/photo/2016/11/18/16/48/water-bottle-1834517_1280.jpg" alt="Large Bottle (1.5L)">
