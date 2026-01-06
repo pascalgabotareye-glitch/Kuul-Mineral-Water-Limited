@@ -1,6 +1,6 @@
 the# kuul-mineral-water-limited
 bottle water company 
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -58,16 +58,3 @@ bottle water company
       <img src="https://cdn.pixabay.com/photo/2016/11/18/16/48/water-bottle-1834517_1280.jpg" alt="Large Water Bottle (1.5L)">
       <h3>Large Bottle (1.5L)</h3>
       <p class="price">1 bottle: 7 Cedis</p>
-      <p class="price">Pack: 60 Cedis</p>
-    </div>
-
-  </div>
-</section>
-
-<footer>
-  <p>&copy; 2026 Kuul Mineral Water</p>
-  <p>Created by <strong>Joanita Dwamena</strong> | Class <strong>1S11</strong></p>
-</footer>
-
-</body>
-</html>
