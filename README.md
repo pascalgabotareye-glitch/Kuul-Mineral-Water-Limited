@@ -37,22 +37,25 @@ bottle water company
   <h2>Our Products</h2>
   <div class="products">
 
+    <!-- Small Bottle -->
     <div class="product">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Bottle_of_water.jpg" alt="Small Bottle">
+      <img src="https://cdn.pixabay.com/photo/2018/05/02/09/03/water-bottle-3368135_1280.jpg" alt="Small Water Bottle (500ml)">
       <h3>Small Bottle (500ml)</h3>
       <p class="price">1 piece: 2.5 Cedis</p>
       <p class="price">Pack: 35 Cedis</p>
     </div>
 
+    <!-- Medium Bottle -->
     <div class="product">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Water_bottle_1L.jpg" alt="Medium Bottle">
+      <img src="https://cdn.pixabay.com/photo/2019/06/26/06/36/water-bottle-4303766_1280.jpg" alt="Medium Water Bottle (1L)">
       <h3>Medium Bottle (1L)</h3>
       <p class="price">1 piece: 4 Cedis</p>
       <p class="price">Pack: 40 Cedis</p>
     </div>
 
+    <!-- Large Bottle -->
     <div class="product">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Water_Bottle_1.5L.jpg" alt="Large Bottle">
+      <img src="https://cdn.pixabay.com/photo/2016/11/18/16/48/water-bottle-1834517_1280.jpg" alt="Large Water Bottle (1.5L)">
       <h3>Large Bottle (1.5L)</h3>
       <p class="price">1 bottle: 7 Cedis</p>
       <p class="price">Pack: 60 Cedis</p>
